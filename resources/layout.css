@@ -42,9 +42,9 @@ a:hover {
 
 #main {
 	margin: 0;
-  border: 1px; /*  CHALLENGE 3: how could you get this to float to the left side of the screen? */
+  border-left: 1px; /*  CHALLENGE 3: how could you get this to float to the left side of the screen? */
   float: right;
-	width: 40%; /* CHALLENGE 2: how could you give this element a one-pixel border down its left side? */
+	width: 20%; /* CHALLENGE 2: how could you give this element a one-pixel border down its left side? */
 }
 
 #copyright {
